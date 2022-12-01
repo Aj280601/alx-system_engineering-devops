@@ -1,1 +1,1 @@
-Create a script that creates a directory name
+script that prints the effective username of the current user
