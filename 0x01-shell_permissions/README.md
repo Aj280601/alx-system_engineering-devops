@@ -1,1 +1,1 @@
-script that sets the permission to the file
+cript that sets the mode of the file hello to this
